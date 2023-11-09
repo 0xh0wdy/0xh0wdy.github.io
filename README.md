@@ -1,2 +1,2 @@
 # 0xh0wdy.github.io
-[Link to Subdirectory](/index/)
+[Link to Subdirectory](/index)
