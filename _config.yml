@@ -70,3 +70,8 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
+# Appearance
+theme: jekyll-theme-minimal
+title: Oxh0wdy's homepage
+description: Bookmark this to keep an eye on my project updates!
