@@ -8,6 +8,15 @@ Here's an example of a  command:
     <code>
         ls <span class="operator">&lt;</span>message<span class="operator">&gt;</span>    <span class="comment"># List directory contents</span><br>
     </code>
+    <code>
+        ls <span class="operator">&lt; <span class="comment"># List directory contents</span><br>
+    </code>
 </div>
 
-More content here...
+<div class="code-box">
+  <code>cd /path/to/directory</code>  <!-- Change directory -->
+</div>
+<div class="code-box">
+  <code>cd /path/to/directory</code>  <!-- Change directory -->
+</div>
+
