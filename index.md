@@ -2,10 +2,10 @@
 layout:default
 title: 0xh0wdy
 ---
-#Welcome to my website
+Welcome to my website
 
 Here are some topics:
 
 {% for guide in site.guides %}
-- [{{ linux-commands.title }}]({{ linux-commands.url | relative_url }})
+- [{{ guide.title }}]({{ guide.url | relative_url }})
 {% endfor %}

@@ -11,6 +11,9 @@ sass:
 collections:
   posts:
     output          : true
+  guides:
+    output: true
+    permalink: /guides/:name/
 
 # Handling Reading
 safe                : false
@@ -70,8 +73,3 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 
-#Collections
-collections:
-  guides:
-    output: true
-    permalink: /guides/:name/
