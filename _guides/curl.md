@@ -29,7 +29,6 @@ Options:
   <code>curl -I </code> 
   <span style="margin-left: 10px; color: #555;"># --head: headers only</span>
 </div>
-<br>
 Request:
 
 <div style="background-color: #f5f5f5; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; display: inline-block; font-family: 'Courier New', Courier, monospace;">
