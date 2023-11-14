@@ -33,7 +33,7 @@ main {
 footer {
     margin-top: 20px;
 }
-/* Add this to your assets/css/styles.css */
+
 .code-box {
     background-color: #f5f5f5;
     border: 1px solid black;
@@ -42,4 +42,11 @@ footer {
     overflow-x: auto;
     white-space: nowrap;
     font-family: 'Courier New', Courier, monospace;
+}
+.code-box .operator {
+    color: #d14;
+}
+.code-box .comment {
+    color: #998;
+    font-style: italic;
 }
