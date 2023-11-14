@@ -73,5 +73,5 @@ kramdown:
 #Collections
 collections:
   guides:
-    outut: true
+    output: true
     permalink: /guides/:name/
