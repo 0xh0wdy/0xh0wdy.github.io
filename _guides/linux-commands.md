@@ -134,9 +134,6 @@ User management Commands:
   <code>finger username </code> 
   <span style="margin-left: 10px; color: #555;"># Shows information of user </span>
   <br>
-  <code> </code> 
-  <span style="margin-left: 10px; color: #555;"># </span>
-  <br>
 </div>
 Networking Commands:
 
