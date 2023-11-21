@@ -2,7 +2,7 @@
 layout:default
 title: 0xh0wdy
 ---
-Howdy! 
+Howdy! This is a hoard of cheetsheets and ideas I have collected off the interwebs. 
 
 Take a look around:
 
